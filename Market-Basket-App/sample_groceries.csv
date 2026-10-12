@@ -1,0 +1,349 @@
+Member_number,Date,itemDescription
+1842,03-01-2015,whole milk
+1842,03-01-2015,other vegetables
+1842,03-01-2015,yogurt
+1275,06-01-2015,whole milk
+1275,06-01-2015,other vegetables
+1275,06-01-2015,rolls/buns
+1931,09-01-2015,whole milk
+1931,09-01-2015,other vegetables
+1931,09-01-2015,root vegetables
+1164,12-01-2015,whole milk
+1164,12-01-2015,other vegetables
+1164,12-01-2015,butter
+1720,15-01-2015,whole milk
+1720,15-01-2015,other vegetables
+1720,15-01-2015,bottled water
+1057,18-01-2015,whole milk
+1057,18-01-2015,other vegetables
+1057,18-01-2015,pastry
+1688,21-01-2015,whole milk
+1688,21-01-2015,other vegetables
+1688,21-01-2015,shopping bags
+1396,24-01-2015,whole milk
+1396,24-01-2015,other vegetables
+1396,24-01-2015,curd
+1811,27-01-2015,whole milk
+1811,27-01-2015,other vegetables
+1811,27-01-2015,domestic eggs
+1228,02-02-2015,whole milk
+1228,02-02-2015,other vegetables
+1228,02-02-2015,whipped/sour cream
+1963,05-02-2015,whole milk
+1963,05-02-2015,other vegetables
+1963,05-02-2015,citrus fruit
+1490,08-02-2015,whole milk
+1490,08-02-2015,other vegetables
+1490,08-02-2015,newspapers
+1108,11-02-2015,whole milk
+1108,11-02-2015,other vegetables
+1108,11-02-2015,sausage
+1759,14-02-2015,whole milk
+1759,14-02-2015,other vegetables
+1759,14-02-2015,brown bread
+1321,17-02-2015,whole milk
+1321,17-02-2015,other vegetables
+1321,17-02-2015,fruit/vegetable juice
+1886,20-02-2015,whole milk
+1886,20-02-2015,other vegetables
+1886,20-02-2015,pip fruit
+1444,23-02-2015,whole milk
+1444,23-02-2015,other vegetables
+1444,23-02-2015,pork
+1069,26-02-2015,whole milk
+1069,26-02-2015,other vegetables
+1069,26-02-2015,chocolate
+1693,01-03-2015,whole milk
+1693,01-03-2015,other vegetables
+1693,01-03-2015,napkins
+1217,04-03-2015,whole milk
+1217,04-03-2015,other vegetables
+1217,04-03-2015,dessert
+1834,07-03-2015,whole milk
+1834,07-03-2015,rolls/buns
+1834,07-03-2015,yogurt
+1426,10-03-2015,whole milk
+1426,10-03-2015,rolls/buns
+1426,10-03-2015,soda
+1076,13-03-2015,whole milk
+1076,13-03-2015,rolls/buns
+1076,13-03-2015,sausage
+1995,16-03-2015,whole milk
+1995,16-03-2015,rolls/buns
+1995,16-03-2015,bottled beer
+1578,19-03-2015,whole milk
+1578,19-03-2015,rolls/buns
+1578,19-03-2015,root vegetables
+1249,22-03-2015,whole milk
+1249,22-03-2015,rolls/buns
+1249,22-03-2015,canned beer
+1715,25-03-2015,whole milk
+1715,25-03-2015,rolls/buns
+1715,25-03-2015,shopping bags
+1362,28-03-2015,whole milk
+1362,28-03-2015,rolls/buns
+1362,28-03-2015,tropical fruit
+1940,31-03-2015,whole milk
+1940,31-03-2015,rolls/buns
+1940,31-03-2015,brown bread
+1089,03-04-2015,whole milk
+1089,03-04-2015,rolls/buns
+1089,03-04-2015,coffee
+1534,06-04-2015,whole milk
+1534,06-04-2015,rolls/buns
+1534,06-04-2015,sugar
+1198,09-04-2015,whole milk
+1198,09-04-2015,rolls/buns
+1198,09-04-2015,butter
+1647,12-04-2015,whole milk
+1647,12-04-2015,rolls/buns
+1647,12-04-2015,white bread
+1305,15-04-2015,whole milk
+1305,15-04-2015,rolls/buns
+1305,15-04-2015,chicken
+1867,18-04-2015,whole milk
+1867,18-04-2015,rolls/buns
+1867,18-04-2015,domestic eggs
+1412,21-04-2015,whole milk
+1412,21-04-2015,yogurt
+1412,21-04-2015,tropical fruit
+1019,24-04-2015,whole milk
+1019,24-04-2015,yogurt
+1019,24-04-2015,citrus fruit
+1771,27-04-2015,whole milk
+1771,27-04-2015,yogurt
+1771,27-04-2015,other vegetables
+1339,30-04-2015,whole milk
+1339,30-04-2015,yogurt
+1339,30-04-2015,whipped/sour cream
+1902,03-05-2015,whole milk
+1902,03-05-2015,yogurt
+1902,03-05-2015,rolls/buns
+1146,06-05-2015,whole milk
+1146,06-05-2015,yogurt
+1146,06-05-2015,berries
+1651,09-05-2015,whole milk
+1651,09-05-2015,yogurt
+1651,09-05-2015,curd
+1284,12-05-2015,whole milk
+1284,12-05-2015,yogurt
+1284,12-05-2015,pastry
+1827,15-05-2015,whole milk
+1827,15-05-2015,yogurt
+1827,15-05-2015,fruit/vegetable juice
+1473,18-05-2015,whole milk
+1473,18-05-2015,yogurt
+1473,18-05-2015,shopping bags
+1094,21-05-2015,whole milk
+1094,21-05-2015,yogurt
+1094,21-05-2015,root vegetables
+1766,24-05-2015,whole milk
+1766,24-05-2015,yogurt
+1766,24-05-2015,soda
+1350,27-05-2015,whole milk
+1350,27-05-2015,yogurt
+1350,27-05-2015,bottled water
+1982,30-05-2015,whole milk
+1982,30-05-2015,yogurt
+1982,30-05-2015,newspapers
+1526,02-06-2015,whole milk
+1526,02-06-2015,yogurt
+1526,02-06-2015,dessert
+1236,05-06-2015,tropical fruit
+1236,05-06-2015,yogurt
+1236,05-06-2015,whole milk
+1851,08-06-2015,tropical fruit
+1851,08-06-2015,yogurt
+1851,08-06-2015,pip fruit
+1459,11-06-2015,tropical fruit
+1459,11-06-2015,yogurt
+1459,11-06-2015,curd
+1111,14-06-2015,tropical fruit
+1111,14-06-2015,yogurt
+1111,14-06-2015,berries
+1738,17-06-2015,tropical fruit
+1738,17-06-2015,yogurt
+1738,17-06-2015,citrus fruit
+1388,20-06-2015,tropical fruit
+1388,20-06-2015,yogurt
+1388,20-06-2015,whipped/sour cream
+1925,23-06-2015,tropical fruit
+1925,23-06-2015,yogurt
+1925,23-06-2015,fruit/vegetable juice
+1043,26-06-2015,tropical fruit
+1043,26-06-2015,yogurt
+1043,26-06-2015,rolls/buns
+1679,29-06-2015,tropical fruit
+1679,29-06-2015,yogurt
+1679,29-06-2015,shopping bags
+1316,02-07-2015,tropical fruit
+1316,02-07-2015,yogurt
+1316,02-07-2015,other vegetables
+1889,05-07-2015,tropical fruit
+1889,05-07-2015,yogurt
+1889,05-07-2015,soda
+1518,08-07-2015,tropical fruit
+1518,08-07-2015,yogurt
+1518,08-07-2015,bottled water
+1175,11-07-2015,coffee
+1175,11-07-2015,sugar
+1175,11-07-2015,whole milk
+1818,14-07-2015,coffee
+1818,14-07-2015,sugar
+1818,14-07-2015,pastry
+1431,17-07-2015,coffee
+1431,17-07-2015,sugar
+1431,17-07-2015,chocolate
+1026,20-07-2015,coffee
+1026,20-07-2015,sugar
+1026,20-07-2015,biscuits
+1699,23-07-2015,coffee
+1699,23-07-2015,sugar
+1699,23-07-2015,rolls/buns
+1344,26-07-2015,coffee
+1344,26-07-2015,sugar
+1344,26-07-2015,newspapers
+1956,29-07-2015,coffee
+1956,29-07-2015,sugar
+1956,29-07-2015,butter
+1581,01-08-2015,coffee
+1581,01-08-2015,sugar
+1581,01-08-2015,brown bread
+1205,04-08-2015,coffee
+1205,04-08-2015,sugar
+1205,04-08-2015,whole milk
+1742,07-08-2015,coffee
+1742,07-08-2015,sugar
+1742,07-08-2015,waffles
+1390,10-08-2015,tea
+1390,10-08-2015,sugar
+1390,10-08-2015,biscuits
+1991,13-08-2015,tea
+1991,13-08-2015,sugar
+1991,13-08-2015,whole milk
+1555,16-08-2015,tea
+1555,16-08-2015,sugar
+1555,16-08-2015,pastry
+1122,19-08-2015,tea
+1122,19-08-2015,sugar
+1122,19-08-2015,chocolate
+1681,22-08-2015,tea
+1681,22-08-2015,sugar
+1681,22-08-2015,rolls/buns
+1268,25-08-2015,tea
+1268,25-08-2015,sugar
+1268,25-08-2015,newspapers
+1849,28-08-2015,tea
+1849,28-08-2015,sugar
+1849,28-08-2015,brown bread
+1497,31-08-2015,tea
+1497,31-08-2015,sugar
+1497,31-08-2015,waffles
+1037,03-09-2015,tea
+1037,03-09-2015,sugar
+1037,03-09-2015,butter
+1761,06-09-2015,tea
+1761,06-09-2015,sugar
+1761,06-09-2015,whole milk
+1329,09-09-2015,butter
+1329,09-09-2015,bread
+1329,09-09-2015,whole milk
+1908,12-09-2015,butter
+1908,12-09-2015,bread
+1908,12-09-2015,jam
+1465,15-09-2015,butter
+1465,15-09-2015,bread
+1465,15-09-2015,coffee
+1083,18-09-2015,butter
+1083,18-09-2015,bread
+1083,18-09-2015,sugar
+1719,21-09-2015,butter
+1719,21-09-2015,bread
+1719,21-09-2015,honey
+1374,24-09-2015,butter
+1374,24-09-2015,bread
+1374,24-09-2015,rolls/buns
+1968,27-09-2015,butter
+1968,27-09-2015,bread
+1968,27-09-2015,whole milk
+1540,30-09-2015,butter
+1540,30-09-2015,bread
+1540,30-09-2015,brown bread
+1193,03-10-2015,butter
+1193,03-10-2015,bread
+1193,03-10-2015,pastry
+1822,06-10-2015,butter
+1822,06-10-2015,bread
+1822,06-10-2015,yogurt
+1401,09-10-2015,soda
+1401,09-10-2015,bottled water
+1401,09-10-2015,salty snack
+1048,12-10-2015,soda
+1048,12-10-2015,bottled water
+1048,12-10-2015,rolls/buns
+1663,15-10-2015,soda
+1663,15-10-2015,bottled water
+1663,15-10-2015,whole milk
+1291,18-10-2015,soda
+1291,18-10-2015,bottled water
+1291,18-10-2015,shopping bags
+1875,21-10-2015,soda
+1875,21-10-2015,bottled water
+1875,21-10-2015,other vegetables
+1511,24-10-2015,soda
+1511,24-10-2015,bottled water
+1511,24-10-2015,canned beer
+1159,27-10-2015,soda
+1159,27-10-2015,bottled water
+1159,27-10-2015,sausage
+1784,30-10-2015,soda
+1784,30-10-2015,bottled water
+1784,30-10-2015,tropical fruit
+1367,02-11-2015,citrus fruit
+1367,02-11-2015,pip fruit
+1367,02-11-2015,whole milk
+1944,05-11-2015,root vegetables
+1944,05-11-2015,other vegetables
+1944,05-11-2015,domestic eggs
+1072,08-11-2015,sausage
+1072,08-11-2015,rolls/buns
+1072,08-11-2015,mustard
+1626,11-11-2015,bottled beer
+1626,11-11-2015,white bread
+1626,11-11-2015,pickled vegetables
+1257,14-11-2015,curd
+1257,14-11-2015,yogurt
+1257,14-11-2015,berries
+1898,17-11-2015,domestic eggs
+1898,17-11-2015,whole milk
+1898,17-11-2015,flour
+1482,20-11-2015,chicken
+1482,20-11-2015,root vegetables
+1482,20-11-2015,other vegetables
+1014,23-11-2015,pork
+1014,23-11-2015,whole milk
+1014,23-11-2015,rolls/buns
+1750,26-11-2015,shopping bags
+1750,26-11-2015,newspapers
+1750,26-11-2015,soda
+1312,29-11-2015,dessert
+1312,29-11-2015,whipped/sour cream
+1312,29-11-2015,yogurt
+1920,02-12-2015,fruit/vegetable juice
+1920,02-12-2015,tropical fruit
+1920,02-12-2015,whole milk
+1568,05-12-2015,waffles
+1568,05-12-2015,chocolate
+1568,05-12-2015,coffee
+1184,08-12-2015,canned beer
+1184,08-12-2015,salty snack
+1184,08-12-2015,soda
+1703,11-12-2015,white bread
+1703,11-12-2015,butter
+1703,11-12-2015,jam
+1348,14-12-2015,flour
+1348,14-12-2015,sugar
+1348,14-12-2015,domestic eggs
+1988,17-12-2015,napkins
+1988,17-12-2015,other vegetables
+1988,17-12-2015,bottled water
